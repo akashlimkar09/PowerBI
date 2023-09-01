@@ -1,0 +1,8 @@
+
+
+Interpretation using Power BI:
+
+Power BI is highly effective in visualizing the insurance claims data for the provided exam questions.Data Cleaning was a crucial part before heading towrds Data Visualization. Vraiation in data types of features were not as per standards, so correcting it was one of the main task, secondly reading and understanding the data was little lenghty work as number of features are too large. State wise claim amount is shown by bar chart to check which state has claimed how much amount.Impact of time on Incidents is shown by line grapgh to understand how incidents are varying with time, similarly for imapct of gender on incident is represented by pie chart to understand contribution of male and female in incidents.Also created new column for age of vehicle.  Moreover, in presenting an overview of claims data, Power BI's integration with Microsoft tools assists in summarizing the financial performance of claims across various states. can offer quick insights into the count of processed claims and approved amounts, aiding leadership in making informed decisions.
+
+
+
